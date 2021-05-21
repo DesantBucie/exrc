@@ -1,0 +1,16 @@
+set number
+set ai
+set sw=4
+set bf
+set prompt
+set searchincr
+set shell=/usr/local/bin/ksh
+set sm
+set smd
+set term=xterm-256color
+set ruler
+set ap
+set noflash
+set leftright
+set ignorecase
+set windowname
